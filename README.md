@@ -6,6 +6,6 @@ As análises regionais também são possíveis, como países com maiores médias
 prioridade nas entrega dos produtos e um mapa mundi interativo. O Dashboard conta com filtros ocultos por uma barra de filtros expansora, 
 permitindo uma análise mais precisa e fácil de utilizar.
 
-![1](https://cdn.discordapp.com/attachments/1068910706314989590/1068910882693861396/nFull_metricas_teste.png)
+![1](https://cdn.discordapp.com/attachments/1068910706314989590/1068967783259451473/Fundo_Dashboard_Versao_Final_Menu_Fechado.png)
 
 ![2](https://cdn.discordapp.com/attachments/1068910706314989590/1068967783032955122/Fundo_Dashboard_Versao_Final_Menu_Aberto.png)
